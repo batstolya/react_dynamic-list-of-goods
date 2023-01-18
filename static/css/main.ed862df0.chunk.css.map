@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,YAAa,CACb,sBAAuB,CACvB,eAAgB","file":"main.ed862df0.chunk.css","sourcesContent":["// styles go here\n.App {\n  display: flex;\n  justify-content: center;\n  margin-top: 15px;\n}\n"]}
